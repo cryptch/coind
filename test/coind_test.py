@@ -48,7 +48,7 @@ class CoindTest(unittest.TestCase):
         raw_result = coind.getinfo()
         try:
             result = json.loads(raw_result)
-            expected = 3050000
+            expected = 3080500
             self.assertEqual(result['version'], expected)
         except ValueError:
             expected = 'error: couldn\'t connect to server'

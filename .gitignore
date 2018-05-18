@@ -13,6 +13,8 @@ Thumbs.db
 venv
 dist
 coind.egg-info
+*.pyc
 __pychache__
 docker/data/*
 !docker/data/vsync.conf
+*.pyc

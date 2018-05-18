@@ -3,8 +3,6 @@ FROM cryptch/ubuntu:16.04
 # Install python 3.6, hug need this version
 RUN add-apt-repository -y ppa:jonathonf/python-3.6
 RUN apt-get update && apt-get install -y python3.6 python3-pip
-RUN echo "alias python=python3.6" >> /root/.bashrc
-RUN /bin/bash -c "source /root/.bashrc"
 
 # Upgrade pip
 RUN pip install --upgrade pip

@@ -9,5 +9,5 @@ setup(
     author_email='fukuroh1@gmail.com',
     keywords=['coind', 'bitcoin', 'bitcoind', 'crypto', 'cryptch'],
     url='https://github.com/cryptch/coind',
-    packages=find_packages(exclude=('coind.egg-info', 'dist', 'docker', 'tests', 'venv')),
+    packages=find_packages(exclude=('coind.egg-info', 'dist', 'docker', 'test', 'venv')),
 )

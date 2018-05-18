@@ -17,4 +17,3 @@ coind.egg-info
 __pychache__
 docker/data/*
 !docker/data/vsync.conf
-*.pyc

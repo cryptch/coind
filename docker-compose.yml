@@ -1,0 +1,12 @@
+version: '2'  
+
+services:
+  test:
+    build: .
+    working_dir: /app
+    volumes:
+      - ./:/app
+    ports:
+      - 65010:65010
+      - 127.0.0.1:65015:65015
+    command: '/app/test.py -v'

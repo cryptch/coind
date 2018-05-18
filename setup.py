@@ -8,6 +8,6 @@ setup(
     author='Cryptch',
     author_email='fukuroh1@gmail.com',
     keywords=['coind', 'bitcoin', 'bitcoind', 'crypto', 'cryptch'],
-    url='https://gitlab.com/cryptch/coind',
+    url='https://github.com/cryptch/coind',
     packages=find_packages(exclude=('coind.egg-info', 'dist', 'docker', 'tests', 'venv')),
 )

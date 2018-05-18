@@ -11,6 +11,8 @@ Thumbs.db
 #############
 .idea
 venv
+dist
+coind.egg-info
 __pychache__
 docker/data/*
 !docker/data/vsync.conf

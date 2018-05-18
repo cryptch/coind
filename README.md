@@ -33,7 +33,7 @@ pip install coind
 
 ### Running the tests
 ```
-./tests/run.py
+./test.py
 ```
 
 ### Additional warning

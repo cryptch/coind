@@ -39,5 +39,18 @@ pip install coind
 ### Additional warning
 After using -daemon commands, it's recommended to wait some minutes for application turn ready
 
-## License
+### License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
+
+### Donation
+#### Bitcoin
+﻿1Hp2hrMU3FUdCtTR9AdwEK7zhKarSENmRY
+
+#### Dash
+XcN1iszFQFKKwwrAM69uvx8BPu8cY3cWCf
+
+#### Solaris XLR
+SZMw57FKCxcSM8XKqqq8iL89J8xxgunLNq
+
+#### Vsync VSX
+﻿VDeD4nt5gDRfageB4K3HwGCJHNDyyu8U3R
